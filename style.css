@@ -4,3 +4,8 @@ header {
     padding: 20px;
     text-align: center;
 }
+section {
+    margin: 0 1.5cm;
+    font-size: 16px;
+    color: black;
+}
