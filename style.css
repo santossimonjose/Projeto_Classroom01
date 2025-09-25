@@ -10,6 +10,13 @@ section {
     font-size: 16px;
     color: white;
 }
+section {
+    background-color: rgb(231, 231, 61);
+    margin: 0 1.5cm;
+    font-size: 16px;
+    color: black;
+
+}
 footer {
     background-color: rgb(231, 231, 61);
     color: black;
